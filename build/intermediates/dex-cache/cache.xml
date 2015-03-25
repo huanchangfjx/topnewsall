@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Auser\Desktop\topnewsall\TopNews\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\jsoup-1.7.2-84973f6d77a71cf0f29b41f0576d25ae29ed0d18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Auser\Desktop\topnewsall\TopNews\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources-a05cfd420b44c960342aabe52ded48b921a29130.jar" />
+    </item>
+    <item
+        jar="C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\exploded-aar\topnewsall\library_SlidingMenu\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\android-support-v4-3a47a859a03a37889fc69dba395d2b6628b3da55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\exploded-aar\topnewsall\library_SlidingMenu\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d48aabf06b21ffd6a0b6fc07dc39e1c6cc4a3f7f">
+        <dex dex="C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\classes-c45333068b111383f554f26d0db565551cc29b55.jar" />
+    </item>
+
+</items>

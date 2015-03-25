@@ -1,0 +1,5 @@
+C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\classes\debug
+C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\classes-c45333068b111383f554f26d0db565551cc29b55.jar
+C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\jsoup-1.7.2-84973f6d77a71cf0f29b41f0576d25ae29ed0d18.jar
+C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\android-support-v4-3a47a859a03a37889fc69dba395d2b6628b3da55.jar
+C:\Users\Auser\Desktop\topnewsall\TopNews\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources-a05cfd420b44c960342aabe52ded48b921a29130.jar
